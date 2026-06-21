@@ -70,8 +70,7 @@ Received message from Kafka: {"id":1,"name":"Alice"}
 
 ## API summary
 - `POST /api/publish?message=hello` → sends String message
-- `POST /api/publish/user` with JSON body → sends `User` JSON message
-
+- `POST /api/publish/user` with JSON body → sends `User` JSON message.
 ## Configuration
 Kafka properties are in `src/main/resources/application.yml`:
 - bootstrap servers: `localhost:9092`
