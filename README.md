@@ -10,7 +10,7 @@ This project demonstrates end-to-end messaging with **Spring Boot + Apache Kafka
 - Spring Kafka
 - Maven
 
-## Project structure
+## Project structure.
 
 ```text
 src/main/java/com/example/kafkademo
